@@ -1,9 +1,10 @@
+# Ipython Course
 The Data is called Gapminder dataset 
 downloaded from https://hackmd.io/krwZ5DPGReeUetRqTK6k6w 
 #Date 07/08/2018
 We are supposed to create a README file and here it is
 
-A sample Readme will be like
+
 Project name: Hepmark project
 Date 07/08/2018
 Maintainer: Konika 
